@@ -3,7 +3,7 @@
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
-NAC-Neural Accumulator|神经累加器|[[3]](https://www.github.com/sharmer156/xiaoshujiang_CB/blob/master/2018-10-9%20%E6%83%B3%E7%90%86%E8%A7%A3%E7%A5%9E%E7%BB%8F%E7%AE%97%E6%9C%AF%E9%80%BB%E8%BE%91%E5%8D%95%E5%85%83%E5%90%97%EF%BC%9F.md)
+Neural Accumulator/NAC|神经累加器|[[4]](https://www.github.com/sharmer156/xiaoshujiang_CB/blob/master/2018-10-9%20%E6%83%B3%E7%90%86%E8%A7%A3%E7%A5%9E%E7%BB%8F%E7%AE%97%E6%9C%AF%E9%80%BB%E8%BE%91%E5%8D%95%E5%85%83%E5%90%97%EF%BC%9F.md)
 Naive bayes|朴素贝叶斯|[[1]](https://www.jiqizhixin.com/articles/2017-11-20-6)
 Naive Bayes Classifier|朴素贝叶斯分类器|[1]
 Named entity recognition|命名实体识别|[1]
@@ -18,7 +18,7 @@ Negative deﬁnite|负定|[1]
 Negative Log Likelihood|负对数似然|[1]
 Negative semideﬁnite|半负定|[1]
 Neighbourhood Component Analysis/NCA|近邻成分分析|[1]
-Neural Arithmetic Logic Unit(NALU)|神经算术逻辑单元|[3]
+Neural Arithmetic Logic Unit(NALU)|神经算术逻辑单元|[4]
 Neural Machine Translation|神经机器翻译|[[1]](https://www.jiqizhixin.com/articles/2017-08-22-6)
 Neural Turing Machine|神经图灵机|[[1]](https://www.jiqizhixin.com/articles/2017-04-11-7)
 Neuromorphic Computing|神经形态计算|[[1]](https://www.jiqizhixin.com/articles/2017-09-26-4)/[[2]](https://www.jiqizhixin.com/articles/2017-06-26-2)/[[3]](https://www.jiqizhixin.com/articles/2017-06-16-6)
